@@ -1,0 +1,4 @@
+pathlib
+openai
+yt-dlp
+tiktoken
